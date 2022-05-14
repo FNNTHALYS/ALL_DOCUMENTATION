@@ -10,7 +10,7 @@ Step-by-step how to install and configure VSCODE to compile in C, C++
 * Installing <a href="https://code.visualstudio.com">VSCODE</a>
 * Installing <a href="https://sourceforge.net/projects/mingw/">MINGW</a>
 
-## VSCODE
+## Config VSCODE
 
 When you finish the VSCODE installation open the extensions tab (Ctrl + Shift + X).
 <p align="left">
@@ -42,7 +42,7 @@ Running the code without MINGW, open CMD;
 <img src="https://user-images.githubusercontent.com/105325980/168446959-4a8dd97c-208a-4f35-9f1d-42be5593a061.png" />
 </p>
 
-## MINGW
+## Config MINGW
 
 To compile the codes directly from VSCODE, MINGW must be installed and configured. 
 
